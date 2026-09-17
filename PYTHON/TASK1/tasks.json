@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Python Programming Task 1",
+    "due_date": "2026-09-20",
+    "done": false,
+    "created_at": "2026-09-16 10:00:00"
+  },
+  {
+    "id": 2,
+    "title": "Push code to GitHub repo CODSOFT_TASKSNO",
+    "due_date": "2026-09-22",
+    "done": false,
+    "created_at": "2026-09-16 10:05:00"
+  },
+  {
+    "id": 3,
+    "title": "Record demo video for LinkedIn",
+    "due_date": null,
+    "done": true,
+    "created_at": "2026-09-15 09:00:00"
+  }
+]
