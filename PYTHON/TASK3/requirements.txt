@@ -1,0 +1,3 @@
+# Task 3 - Password Generator
+# No external dependencies required.
+# Uses only the Python standard library: secrets, string
